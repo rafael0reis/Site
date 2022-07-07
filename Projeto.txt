@@ -1,2 +1,0 @@
-    cabeçalho
-ocupar todo o todo do site e toda a largura da tela 
