@@ -1,2 +1,31 @@
     Esconder UL LI 
 https://www.devmedia.com.br/forum/li-e-div-esconder-e-aparecer/554257
+
+1 header
+a) colocar os links nos lugares
+b) colocar o efeito de esconder os links 
+c) colocar ícones de redes sociais no lugar das palavras 
+
+2 main 
+a) section 1
+a.1) nome e imagem ocupando 100vh 
+a.2) efeitio máquina de escrever em Loop 
+
+b) section 2 
+b.1) text com conteúdo dividindo com a imagem do lado direito ocupando 100vh
+b.2) efeito parallax na minha foto na direita
+
+c) section 3 
+c.1) carrossel de ícones das tecnologias que eu uso e to aprendendo 
+c.2) ícones interativos, cada ícone que o mouse passa por cima muda o texto com uma breve descrição, e o ícone selecionado fica ressaltado 
+
+d) section 4
+d.1) texto do lado direito e um carrossel com os projetos do lado esquerdo
+
+obs: tudo em tema Dark priorizando Preto, Roxo, Amarelo e Verde 
+
+3 footer 
+
+4 contact page
+
+5 responsividade 
